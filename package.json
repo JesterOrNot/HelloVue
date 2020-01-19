@@ -1,0 +1,25 @@
+{
+  "name": "hellovue",
+  "version": "1.0.0",
+  "description": "Vue Hello World",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesterOrNot/HelloVue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Sean Hellum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesterOrNot/HelloVue/issues"
+  },
+  "homepage": "https://github.com/JesterOrNot/HelloVue#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
